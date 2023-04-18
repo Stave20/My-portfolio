@@ -404,7 +404,8 @@ form .btn{
             flex-direction: column;
         }
         .about-img{
-            width: 70vw;
+            width: 90vw;
+            
         }
         .portfolio h2{
             margin-bottom: 3rem;
@@ -433,7 +434,7 @@ form .btn{
             width: 90vw;
         }
         .about-img img{
-            width: 90vw;
+            width: 60vw;
         }
         .footer{
             flex-direction: column-reverse;
