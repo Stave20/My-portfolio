@@ -404,7 +404,7 @@ form .btn{
             flex-direction: column;
         }
         .about-img{
-            width: 90vw;
+            width: 95vw;
             
         }
         .portfolio h2{
@@ -431,10 +431,10 @@ form .btn{
     }
     @media(max-width:365px){
         .home img{
-            width: 90vw;
+            width: 60vw;
         }
         .about-img img{
-            width: 60vw;
+            width: 50vw;
         }
         .footer{
             flex-direction: column-reverse;
