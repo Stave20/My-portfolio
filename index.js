@@ -18,9 +18,6 @@ window.onscroll=()=>{
 //<!--------- CREAR stycky nav bar--------->
 var header=document.querySelector('header')
 header.classList.toggle.apply("sticky",window.scrollY>100)
-
-
-//<!--------- CREAR a toggle changer--------->
 menubar.classList.remove('bx-x')
 navbar.classList.remove('active')
 
