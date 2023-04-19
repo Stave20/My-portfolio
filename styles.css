@@ -154,6 +154,11 @@ span{
   text-align: center;
   font-size: 3.5rem;
 }
+.about-img img{
+    max-width: 100%;
+    height: auto;
+}
+
 .about-section h2{
     text-align: left;
     line-height: 1.2;
@@ -404,7 +409,7 @@ form .btn{
             flex-direction: column;
         }
         .about-img{
-            width: 95vw;
+           width:90vw;
             
         }
         .portfolio h2{
@@ -431,10 +436,10 @@ form .btn{
     }
     @media(max-width:365px){
         .home img{
-            width: 60vw;
+            width: 40vw;
         }
         .about-img img{
-            width: 50vw;
+            width:70vw;
         }
         .footer{
             flex-direction: column-reverse;
